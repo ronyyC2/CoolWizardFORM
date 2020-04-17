@@ -1,2 +1,0 @@
-# CoolWizardFORM
-Created with CodeSandbox
