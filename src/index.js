@@ -55,8 +55,7 @@ function App() {
     <StateMachineProvider>
       <DevTool />
       <div className="container">
-        <h1>Form Wizzard</h1>
-
+        <h1>Diabetes Test</h1>
         <Router>
           <Pages />
         </Router>
